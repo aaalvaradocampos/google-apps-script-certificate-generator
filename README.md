@@ -42,5 +42,3 @@ In your Google Doc template, use the following format for placeholders. The scri
 
 *(Make sure these tags match exactly with the ones defined in the `body.replaceText()` functions inside the script).*
 
-## ⚠️ Privacy Note
-These scripts are sanitized. Be sure **not** to commit your actual Google Drive IDs or personal student data to public repositories.
